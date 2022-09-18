@@ -1,0 +1,69 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "Sergeys-Mac.lan",
+    "children" : [ {
+      "name" : "4516@Sergeys-Mac.lan.Test worker(12)",
+      "children" : [ {
+        "name" : "addBookToLibraryTest()",
+        "uid" : "ca311aca4b7e70fe",
+        "parentUid" : "85db0bb8aea6f980d8056b863befbc80",
+        "status" : "failed",
+        "time" : {
+          "start" : 1663531136700,
+          "stop" : 1663531138894,
+          "duration" : 2194
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "authenticateUserTest()",
+        "uid" : "4a9771dd0084346c",
+        "parentUid" : "85db0bb8aea6f980d8056b863befbc80",
+        "status" : "passed",
+        "time" : {
+          "start" : 1663531139021,
+          "stop" : 1663531139023,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "85db0bb8aea6f980d8056b863befbc80"
+    }, {
+      "name" : "4547@Sergeys-Mac.lan.Test worker(12)",
+      "children" : [ {
+        "name" : "authenticateUserTest()",
+        "uid" : "f63669462b11493a",
+        "parentUid" : "16b297b15712a6fb330dddaae5b17934",
+        "status" : "passed",
+        "time" : {
+          "start" : 1663531247378,
+          "stop" : 1663531247379,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "addBookToLibraryTest()",
+        "uid" : "1acd0e978b1329db",
+        "parentUid" : "16b297b15712a6fb330dddaae5b17934",
+        "status" : "passed",
+        "time" : {
+          "start" : 1663531245067,
+          "stop" : 1663531247220,
+          "duration" : 2153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "16b297b15712a6fb330dddaae5b17934"
+    } ],
+    "uid" : "81ec459a57a1145f61de0101d3c57e73"
+  } ],
+  "name" : "timeline"
+}

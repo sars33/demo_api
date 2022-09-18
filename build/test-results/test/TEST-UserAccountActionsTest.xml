@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UserAccountActionsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-09-18T20:00:45" hostname="Sergeys-Mac.lan" time="2.313">
+  <properties/>
+  <testcase name="addBookToLibraryTest()" classname="UserAccountActionsTest" time="2.306"/>
+  <testcase name="authenticateUserTest()" classname="UserAccountActionsTest" time="0.004"/>
+  <system-out><![CDATA[{
+    "books": [
+        {
+            "isbn": "9781449331818"
+        }
+    ]
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,55 @@
+{
+  "uid" : "4a9771dd0084346c",
+  "name" : "authenticateUserTest()",
+  "fullName" : "UserAccountActionsTest.authenticateUserTest",
+  "historyId" : "dd99383c24e9966396f84d99edc1815f",
+  "time" : {
+    "start" : 1663531139021,
+    "stop" : 1663531139023,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Sergeys-Mac.lan"
+  }, {
+    "name" : "thread",
+    "value" : "4516@Sergeys-Mac.lan.Test worker(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "UserAccountActionsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "UserAccountActionsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "authenticateUserTest"
+  }, {
+    "name" : "suite",
+    "value" : "UserAccountActionsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a9771dd0084346c.json",
+  "parameterValues" : [ ]
+}

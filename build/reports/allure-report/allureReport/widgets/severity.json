@@ -1,0 +1,21 @@
+[ {
+  "uid" : "f63669462b11493a",
+  "name" : "authenticateUserTest()",
+  "time" : {
+    "start" : 1663531247378,
+    "stop" : 1663531247379,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1acd0e978b1329db",
+  "name" : "addBookToLibraryTest()",
+  "time" : {
+    "start" : 1663531245067,
+    "stop" : 1663531247220,
+    "duration" : 2153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
